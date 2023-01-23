@@ -1,3 +1,3 @@
 # SWENG431
-SWENG431 Spring 2022  
+Spring 2022  
 Labs
